@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T23:02:27.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.3" etag="ZAF-nfAqpTW1lveCWlqa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T23:02:51.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="u1CdoEV2j4L3i11nYWO6" version="24.2.3" type="github">
   <diagram name="Página-1" id="46ALvAYd2lgJEebP4-S1">
-    <mxGraphModel>
+    <mxGraphModel dx="1114" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="97QTDW_RfirqoRbuN40a-1" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="97QTDW_RfirqoRbuN40a-2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
